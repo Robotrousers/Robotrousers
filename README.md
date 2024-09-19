@@ -5,7 +5,7 @@ locattion: oklahoma, usa
 current: video production
 looking_for: data analytics
 currently_learning: data analytics tcc bootcamp
-fun_fact: I have been to 8 countries
+fun_fact: i have been to 8 countries
 ```
 
 <!--
