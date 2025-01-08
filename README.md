@@ -20,7 +20,7 @@ Entry-level data analytics professional; recently completed:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/pypi/pyversions/Python-hello)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=blue)
 </br>
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
