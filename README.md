@@ -5,7 +5,7 @@ location: oklahoma, usa
 current: video production, data analytics study
 looking_for: data analytics
 currently_learning: data analytics tcc bootcamp
-favorite_reads: treasure island, dune 1-3, the wind in the willows, redwall series, myst series
+favorite_reads: treasure island, dune 1-3, the wind in the willows, redwall, myst
 
 Entry-level data analytics professional; recently completed:
   TCC Cyber Skills Center Data Analytics Bootcamp Program
