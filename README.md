@@ -9,7 +9,7 @@ favorite_reads: treasure island, dune 1-3, the wind in the willows, redwall, mys
 
 Entry-level data analytics professional; recently completed:
   TCC Cyber Skills Center Data Analytics Bootcamp Program
-  Google Data Analytics Professional Certificate
+  Google Data Analytics Professional Certification
   Business Intelligence Certification
 ```
 
